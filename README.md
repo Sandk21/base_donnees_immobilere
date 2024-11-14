@@ -1,36 +1,41 @@
 # Créez et utilisez une base de données immobilière avec SQL
 
 ## Contexte
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/49c0948e-66ee-45fa-9f7a-42c1f08f1af3)
+
 Laplace Immo est un réseau national d’agences immobilières, le directeur général est sensible à l’importance des données, et pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers.
 Ce projet stratégique est appelé en interne le projet "DATAImmo"
 
 ## Objectifs
-    1 - Création et modification de la base de données permettant de collecter les transactions immobilières et foncières en France.
-    2 - Analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients
+Création et modification de la base de données permettant de collecter les transactions immobilières et foncières en France.
+Analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients
 
 ## Données utilisées
-![alt text]({C354DB91-0C93-4C53-9B7B-165F8675AC8B}.png)
+![{D1CDA01A-AC99-4D32-AE40-0660662112D7}](https://github.com/user-attachments/assets/6e558534-0b29-47e9-9396-9c73f375c37f)
+
 ### Respect du RGPD
 ### Création des dictionnaires de données
 
 ## Base de données
 
 ### Schéma rélationnel normalisé (respect de la norme 3NF)
-    - Modèle Conceptuel des Données
-    ![alt text](Projet5_MCD_BDCONTRATIMMO.drawio-1.png)
+![MLD](https://github.com/user-attachments/assets/b63e6142-99a4-45a8-9ca4-47a420ad5650)
 
-    - Modèle Logique des données
-    ![alt text]({08561806-0C22-4868-B4CF-5F5D771A24C8}.png)
-    - Création de la Base de Données
-    ![alt text](Creation_BD-1.png)
+Création de la Base de Données
+![Creation_BD](https://github.com/user-attachments/assets/beccf197-f742-429c-a0e8-d763f9f46e27)
+
 
 ### Capture d'écran de la base de données
-![alt text]({7E395D36-4592-4F55-BDB2-41BEEDC1E009}.png)
+![{DB317339-95FE-481B-B19E-32D4BC99337A}](https://github.com/user-attachments/assets/a0ded797-4e70-479d-aa01-ebe3e5a76591)
 
-![alt text]({0D1148D0-4845-4675-A9AB-C8D55792FF52}.png)
+
+![{8D32E3A3-81B4-41A5-9AD9-6480A258D387}](https://github.com/user-attachments/assets/ea4dcf7f-024b-43ff-93fd-d0aa98de0754)
+
 
 ## Analyses (exemples)
 
-![alt text]({0A93FC4A-1D3E-4EEC-AEF1-8DD4095C0E1B}.png)
-![alt text]({5194A1CD-9202-44EB-BF66-9FCCA78900D8}.png)
+![{AA088A9E-4101-444A-953C-4B78C75FE3CD}](https://github.com/user-attachments/assets/559d32bd-bdf6-4f44-8d0a-3ab77fbd83fc)
+![{FF9010DC-49C5-41BA-A701-CDD2743D7087}](https://github.com/user-attachments/assets/435c873b-d85e-4fc9-b0a5-4bf24908576c)
+
+## 
+>Le projet a été réalisé dans le cadre d'une formation de Data Analyst avec OpenClassroom
